@@ -1,0 +1,11 @@
+Name of QuantLet: Explainable AI for Electricity Price Anomaly Detection
+
+Published in: Not yet published
+
+Description: Applying SHAP analysis on an Random Forest predictive model for price anomalies
+
+Keywords: XAI; SHAP values; electricity; price forecasting; Machine Learning
+
+Author: Alexandru-Victor ANDREI, Daniel Traian PELE
+
+Submitted: 24.02.2026
