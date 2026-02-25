@@ -1,11 +1,11 @@
-Name of QuantLet: Explainable AI for Electricity Price Anomaly Detection
+Name of QuantLet: A counterfactual analysis of Romania’s 2024 energy crisis
 
 Published in: Not yet published
 
-Description: Applying SHAP analysis on an Random Forest predictive model for price anomalies
+Description: Introducing a novel counterfactual framework to analyze electricity market dynamics
 
-Keywords: XAI; SHAP values; electricity; price forecasting; Machine Learning
+Keywords: Counterfactual explanations, electricity price crisis, intervention effectiveness, explainable artificial intelligence, demand response, model uncertainty, Romanian energy market
 
-Author: Alexandru-Victor ANDREI, Daniel Traian PELE
+Author: Alexandru-Victor ANDREI, Daniel Traian PELE, Alexandru-Adrian CRAMER
 
 Submitted: 24.02.2026
