@@ -1,6 +1,6 @@
-Name of Quantlet: Data
-Published in: Multi-objective Explainable AI for Romanian Electricity Price Analysis
+Name of Quantlet: Code
+Published in:  A counterfactual analysis of Romania’s 2024 energy crisis
 Description: This is the code for our paper
 Keywords: Code
-Author: Alexandru-Victor ANDREI, Daniel Traian PELE 
+Author: Alexandru-Victor ANDREI, Daniel Traian PELE, Alexandru-Adrian CRAMER 
 Submitted: 24.02.2026
